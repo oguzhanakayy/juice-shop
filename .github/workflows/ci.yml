@@ -387,3 +387,6 @@ jobs:
         with:
           name: sbom
           path: sbom.json
+
+
+# trigger
