@@ -390,3 +390,8 @@ jobs:
 
 
 # trigger
+on:
+  push:
+    branches-ignore:
+      - l10n_develop
+  workflow_dispatch:
